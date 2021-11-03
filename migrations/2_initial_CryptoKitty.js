@@ -5,7 +5,7 @@ const SiringClockAuction = artifacts.require("SiringClockAuction");
 
 const CUT = 5000;
 
-module.exports = function(deployer) {
+module.exports = async function(deployer) {
       await deployer.deploy(KittyCore);
       console.log("KittyCore address: ", KittyCore.address);
 

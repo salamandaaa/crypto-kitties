@@ -34,11 +34,11 @@ module.exports = {
     // options below to some value.
     //
     development: {
-     host: "192.168.1.49",     // Localhost (default: none)
+     host: "35.247.155.162",     // Localhost (default: none)
      port: 6789,            // Standard Ethereum port (default: none)
      network_id: "*",       // Any network (default: none)
-     from: "lat1k422xnhua76asazwvref57mm6454r5gamtvdgd",        // Account to send txs from (default: accounts[0])
-     gas: 999999,
+     from: "lat1mph9ef447m8dd5cpa5792yzv3ldzexd9c5rcsz",        // Account to send txs from (default: accounts[0])
+     gas: 9000000,
      gasPrice: 10000000000
     },
 

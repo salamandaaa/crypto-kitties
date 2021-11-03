@@ -1,5 +1,5 @@
 pragma solidity ^0.4.11;
-import "./GeneScienceInterface.sol"
+import "./GeneScienceInterface.sol";
 
 /// @title SEKRETOOOO
 contract GeneSimple is GeneScienceInterface {
